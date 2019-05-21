@@ -33,22 +33,22 @@ def train_attack():
                         keyboard.send('down')
                 if (is_red(im, (290,435))):
                         keyboard.send('down')
-                if (is_red(im, (320,435))):
-                        keyboard.send('down')
+                #if (is_red(im, (320,435))):
+                #        keyboard.send('down')
 
                 if (is_red(im, (300, 354))):
                         keyboard.send('right')
                 if (is_red(im, (285, 354))):
                         keyboard.send('right')
-                if (is_red(im, (230, 354))):
-                        keyboard.send('right')
+                #if (is_red(im, (230, 354))):
+                #        keyboard.send('right')
 
-                if (is_red(im, (202, 283))):
-                        keyboard.send('up')
-                if (is_red(im, (234, 280))):
-                        keyboard.send('up')
-                if (is_red(im, (252, 270))):
-                        keyboard.send('up')
+                #if (is_red(im, (202, 283))):
+                #        keyboard.send('up')
+                #if (is_red(im, (234, 280))):
+                #        keyboard.send('up')
+                #if (is_red(im, (252, 270))):
+                #        keyboard.send('up')
                 if (is_red(im, (293, 250))):
                         keyboard.send('up')
                 if (is_red(im, (323, 232))):
